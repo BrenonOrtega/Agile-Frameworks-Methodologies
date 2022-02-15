@@ -82,3 +82,31 @@ Prazos e datas,
 Quem está trabalhando naquele cartão através de avatar,
 
 Tipo de trabalho (bug ou normal, por exemplo). Bugs muitas vezes diferenciados por cor.
+
+## WIP ( Work in Progress):
+
+Pare de começar e comece a terminar!
+
+Trabalhar em menos itens entrega valor mais rápido
+
+O WIP pode ser definido inicialmente por número de pessoas em cada atividade
+
+O time é a melhor fonte para definir seu limite de WIP
+
+Podemos criar uma coluna de buffer para atividades que envolvem apenas uma aprovação, por exemplo
+
+Limitar o WIP vai mostrar oportunidades de melhoria
+
+Agir sobre estas oportunidades vai melhorar o fluxo do trabalho
+
+Não existe um WIP “correto” para um time
+
+Em termos de limites de WIP, observamos que: limites muito ALTOS deixam o trabalho parado, já os limites muito BAIXOS deixam as pessoas paradas sem trabalho.
+
+Como lidar com itens urgentes, considerando que:
+
+O time crie uma política para definir o que é urgente
+
+A urgência é criada no quadro e é tratada como uma raia separada
+
+A importância de lembrarmos que a linha de itens de urgência criada mostra o impacto no fluxo de trabalho aumentando o WIP.
