@@ -134,3 +134,17 @@ Vimos também que as métricas devem ser escolhidas pela realidade de cada time.
 Elas ajudam o time a começar a ver a média dos seus resultados, a fazer previsões e planejar prazos de entrega.
 
 Na questão da urgência vimos que é importante sempre monitorar no fluxo de trabalho do quadro Kanban o que é urgente, tendo em vista que isso impacta o resultado como um todo da entrega.
+
+## Políticas Explicitas
+
+Devemos deixar escrito de maneira clara, conscisa e de fácil acesso as seguintes coisas:
+- Regras de trabalho do time
+- Reuniões e suas datas e períodos.
+- Papeis de cada um nas cerimônias.
+
+## Erros Comuns
+ - Retorno de itens - No Kanban existe sentido único, portanto um card nunca deve voltar para um estado anterior.
+ - Coluna de "On Hold" ou "Impedimentos" - É uma regra gravissima e não é permitido ter uma coluna de impedimentos.
+ - Não limitar o WIP - Devemos sempre nos ater ao limite do WIP, não existem exceções, quando houverem urgências, devemos usar a "raia de urgência" para dar vazão de maneira prioritária a um item.
+ - Não mapear todos o trabalho executado - Qualquer favor, qualquer desvio ou algo que fez você parar o seu trabalho para que esteja vísivel a todos e de maneira vísivel, todo o esforço que tem sido feita até com demandas paralelas.
+ - Métricas - Não devemos usar métricas para medir a performance do time, elas servem para encontrar e auxiliar a resolução de possíveis gargalos no processo e dar previsibilidade.
