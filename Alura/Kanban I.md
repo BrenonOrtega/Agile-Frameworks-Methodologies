@@ -141,10 +141,32 @@ Devemos deixar escrito de maneira clara, conscisa e de fácil acesso as seguinte
 - Regras de trabalho do time
 - Reuniões e suas datas e períodos.
 - Papeis de cada um nas cerimônias.
+- ## Políticas explícitas com foco em buscar a melhoria contínua e colaborativa;
+
+Realização de reuniões periódicas de melhoria baseadas no quadro Kanban, no qual o time decide sua frequência. O importante é que ela seja focada nos post-its, não nas pessoas, e que os post-its sejam trabalhados priorizados da direita para a esquerda, o que possibilitará o término de alguns trabalhos antes de se iniciarem outros;
+
+Vimos o quão relevante é nos certificarmos que todo o time entende no que trabalha;
+
+O Kanban expõe os problemas no processo. Cabe ao time abordar os problemas para poder obter os benefícios do Kanban e com isto estar se autoajustando para poder estar continuamente melhorando;
+
+A adoção do Kanban é um investimento de longo prazo em capacidade, maturidade e cultura da sua organização. Não se destina a uma solução rápida!
+
+Focar no que “cheira mal” e nos desvios;
+
 
 ## Erros Comuns
+ 
  - Retorno de itens - No Kanban existe sentido único, portanto um card nunca deve voltar para um estado anterior.
+ 
  - Coluna de "On Hold" ou "Impedimentos" - É uma regra gravissima e não é permitido ter uma coluna de impedimentos.
+ 
  - Não limitar o WIP - Devemos sempre nos ater ao limite do WIP, não existem exceções, quando houverem urgências, devemos usar a "raia de urgência" para dar vazão de maneira prioritária a um item.
- - Não mapear todos o trabalho executado - Qualquer favor, qualquer desvio ou algo que fez você parar o seu trabalho para que esteja vísivel a todos e de maneira vísivel, todo o esforço que tem sido feita até com demandas paralelas.
+ 
+ - Não mapear todos o trabalho executado ou card “fantasma - Qualquer favor, qualquer desvio ou algo que fez você parar o seu trabalho para que esteja vísivel a todos e de maneira vísivel, todo o esforço que tem sido feita até com demandas paralelas.
+ 
  - Métricas - Não devemos usar métricas para medir a performance do time, elas servem para encontrar e auxiliar a resolução de possíveis gargalos no processo e dar previsibilidade.
+ - Não usar métricas de forma consistente ou relevante.
+
+ - A métrica ser imposta, o time precisa estar envolvido na decisão!
+
+ - Punir o time caso o resultado piore, premiar caso o resultado melhore
