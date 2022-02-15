@@ -83,7 +83,7 @@ Quem está trabalhando naquele cartão através de avatar,
 
 Tipo de trabalho (bug ou normal, por exemplo). Bugs muitas vezes diferenciados por cor.
 
-## WIP ( Work in Progress):
+## WIP ( Work in Progress)
 
 Pare de começar e comece a terminar!
 
@@ -103,10 +103,34 @@ Não existe um WIP “correto” para um time
 
 Em termos de limites de WIP, observamos que: limites muito ALTOS deixam o trabalho parado, já os limites muito BAIXOS deixam as pessoas paradas sem trabalho.
 
-Como lidar com itens urgentes, considerando que:
+### Trabalhando itens urgentes
 
 O time crie uma política para definir o que é urgente
 
 A urgência é criada no quadro e é tratada como uma raia separada
 
 A importância de lembrarmos que a linha de itens de urgência criada mostra o impacto no fluxo de trabalho aumentando o WIP.
+
+## Métricas
+
+- Lead Time – o tempo para todo o fluxo do trabalho.
+
+- Cycle Time – o tempo que o trabalho demora para passar por parte do fluxo.
+
+- Throughtput – quantos itens o time completa em um período de tempo, pode ser chamado de vazão.
+
+## As métricas existem para ajudar o time a melhorar
+
+É recomendável que se deixe o time escolher as suas próprias métricas.
+
+Não devemos usar as métricas do Kanban para avaliação de performance da equipe.
+
+Destacamos a importância dos cartões conterem as datas para ser possível extrair as métricas desejadas.
+
+Sugerimos que na dúvida de qual métrica usar como ponto de análise inicial usar a Lead time, porque é o tempo que a sua entrega leva para gerar valor para seu cliente.
+
+Vimos também que as métricas devem ser escolhidas pela realidade de cada time.
+
+Elas ajudam o time a começar a ver a média dos seus resultados, a fazer previsões e planejar prazos de entrega.
+
+Na questão da urgência vimos que é importante sempre monitorar no fluxo de trabalho do quadro Kanban o que é urgente, tendo em vista que isso impacta o resultado como um todo da entrega.
